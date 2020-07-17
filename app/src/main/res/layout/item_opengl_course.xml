@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="@dimen/comm_mar_top">
+
+
+    <TextView
+        android:id="@+id/tv_mediamuxer_video"
+        style="@style/comm_btn_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:paddingLeft="@dimen/comm_lr"
+        android:paddingRight="@dimen/comm_lr"
+        android:text="课程内容"
+        />
+</LinearLayout>

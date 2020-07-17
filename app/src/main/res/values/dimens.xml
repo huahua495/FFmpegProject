@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_nav_btn_pad_lr">55dp</dimen>
+    <dimen name="comm_mar_top">10dp</dimen>
+    <dimen name="comm_layout_height">55dp</dimen>
+    <dimen name="comm_lr">15dp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="common_mar_top_plus">20dp</dimen>
+    <dimen name="comm_small_pad">10dp</dimen>
+</resources>

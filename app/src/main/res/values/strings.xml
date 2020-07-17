@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FFmpegProject</string>
+    <string name="loading_wait">请稍候</string>
+</resources>
